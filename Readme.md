@@ -6,4 +6,4 @@
 3. Если количество символов элемента массива меньше или равно 3, то записываем этот элемент в новый массив
 4. Выводим получившийся массив.
 ### Блок схема
- ![pic](https://github.com/EvgeniySereb/FinalWorkC-/blob/main/pic.png)
+ ![pic](https://drive.google.com/file/d/1O5G1X1i0T87oHsGKjge8PcSSULBHpMAC/view?usp=sharing)
